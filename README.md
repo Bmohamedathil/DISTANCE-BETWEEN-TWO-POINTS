@@ -16,8 +16,8 @@ Print the distance in two decimal
 ### PROGRAM:
 ```
 #Program to find the distance between two points.
-#Developed by: 
-#RegisterNumber:
+#Developed by:B.Mohamed Athil
+#RegisterNumber:22008533
 import math as m
 l1=[4,2]
 l2=[10,6]
@@ -31,3 +31,5 @@ print("{:.2f}".format(d))
 
 
 ### RESULT:
+Thus program to find the distance between two 2 points is executed successfully
+
